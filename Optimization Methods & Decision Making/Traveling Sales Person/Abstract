@@ -1,0 +1,3 @@
+Embarking on the Traveling Salesman Problem (TSP) feels like diving headfirst into the world of algorithmic puzzles and computational wizardry. Picture this: you're a delivery driver with a bunch of packages on your truck, and the challenge is to figure out the most efficient route that delivers each package and brings you back to the distribution center. Sounds simple, right? Well, here's the twist: it gets crazily complex as the number of stops goes up. But hey, that's where the fun begins! So, buckle up – we're about to navigate the academic maze of TSP!
+
+In this specific problem, I am not just optimizing the route for one truck, but determing routes for 10 trucks with a total of 500 packages.
